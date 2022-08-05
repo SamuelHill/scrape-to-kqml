@@ -1,0 +1,26 @@
+[{'text':'MIT',
+ 'id':'MassachusettsInstituteofTechnology'},
+{'text':'M.I.T.',
+ 'id':'MassachusettsInstituteofTechnology'},
+{'text':'UCLA',
+ 'id':'UniversityofCaliforniaLosAngeles'},
+{'text':'State University of New York, Stony Brook',
+ 'id':'StonyBrookUniversity'},  # SUNY schools are confusing
+{'text':'University of Illinois at Urbana',
+ 'id':'UniversityofIllinoisatUrbanaChampaign'},
+{'text':'UC Santa Barbara',
+ 'id':'UniversityofCaliforniaSantaBarbara'},
+{'text':'Aristotelian University of Thessaloniki',
+ 'id':'AristotleUniversityofThessaloniki'},
+{'text':'Bogazici Univeristy',
+ 'id':'BogaziciUniveristy'},  # BogaziçiÜniversitesi
+{'text':'Tel-Aviv University',
+ 'id':'TelAvivUniversity'},
+{'text':'University of Belgrade',
+ 'id':'UniversityofBelgrade'},  # not listed at all...
+{'text':'Brown Univesity',
+ 'id':'BrownUniversity'},
+{'text':'University of Sts. Kiril and Metodij',
+ 'id':'SaintsCyrilandMethodiusUniversityofSkopje'},  # not listed at all...
+{'text':'Indian Institute of Technology, Madras',
+ 'id':'IndianInstituteofTechnologyMadras'}]
